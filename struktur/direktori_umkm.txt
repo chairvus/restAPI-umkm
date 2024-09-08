@@ -1,0 +1,33 @@
+- project_root/
+    - app/
+        - __init__.py
+        - routes/
+            - __init__.py
+            - user_routes.py
+            - umkm_routes.py
+            - produk_routes.py
+        - services/
+            - __init__.py
+            - auth_service.py
+            - umkm_service.py
+            - produk_service.py
+            - user_service.py
+        - middlewares/
+            - __init__.py
+            - auth_middleware.py
+            - umkm_middleware.py
+            - produk_middleware.py
+        - utils/
+            - __init__.py
+            - db.py
+            - jwt_utils.py
+            - validation_utils.py
+    - config.py
+    - run.py
+
+
+curl postman(jika tidak bisa dari bawaan)
+
+curl -X POST http://127.0.0.1:5000/login -F no_hp=7070 -F password=abcdef
+
+curl -X POST http://127.0.0.1:5000/register -F no_hp=6060 -F password=123456 -F role=USER

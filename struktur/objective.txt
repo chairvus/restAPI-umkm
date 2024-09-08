@@ -1,0 +1,15 @@
+USER ADMIN
+1. Dashboard
+2. Manajemen Pengguna (Tambah, Ubah, Hapus, Suspend/Unsuspend)
+3. Manajemen UMKM (Tambah, Ubah, Hapus, Suspend/Unsuspend)
+4. Manajemen Produk (Publish/Unpublish)
+
+USER BIASA
+1. Dashboard
+2. Manajemen UMKM (Tambah, Ubah, Hapus, Ubah Status[aktif/non aktif])
+3. Manajemen Produk (Tambah, Ubah, Hapus, Publish/Un Publish)
+
+TO-FOR-DO
+put
+suspend dan Unsuspend(BELUM SELESAI)
+feedback messege setiap form-data

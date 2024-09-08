@@ -1,0 +1,53 @@
+/umkm
+[
+    {
+        "id": 2,
+        "nama": "hayoo"
+    },
+    {
+        "id": 3,
+        "nama": "woowwooo"
+    },
+    {
+       "data umkm dengan id: <umkm_id> telah di suspended"
+    },
+    {
+        "id": 1,
+        "nama": "popo"
+    }
+]
+
+/umkm/user/<user_id>
+[
+    {
+        "alamat": "hayoo",
+        "deskripsi": "hayoo",
+        "dokumen": "pass_rennsport.txt",
+        "foto_umkm": "holdUp.png",
+        "id": 2,
+        "jam_buka": "00:00",
+        "kategori": "hayoo",
+        "nama": "hayoo",
+        "no_kontak": "091239111",
+        "npwp": "41231",
+        "products": [],
+        "status_umkm": true
+    },
+    {
+        "data umkm dengan id: <umkm_id> telah di suspended"
+    },
+    {
+        "alamat": "woowwooo",
+        "deskripsi": "woowwooo",
+        "dokumen": null,
+        "foto_umkm": null,
+        "id": 3,
+        "jam_buka": "00:00",
+        "kategori": "woowwooo",
+        "nama": "woowwooo",
+        "no_kontak": "4123",
+        "npwp": "1234",
+        "products": [],
+        "status_umkm": true
+    }
+]
